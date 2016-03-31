@@ -3,7 +3,7 @@ Repo for assignment 2 announcement and discussion.
 
 ## Filename format
 As we have 2 programs in this assignment, please name you file as:
- - `Prog.c`
+ - `Prog-1.c`
  - `Prog-2.c`
 
 If you don't write in C, C++ is also acceptable, just replace the extension `.c` with `.cpp`, please don't seperate your program to multiple header and class files, only one file for each program.
