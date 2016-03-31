@@ -15,7 +15,7 @@ Please **at least** commit each program for **two** commits, don't do them all i
 
 We use standart input(stdin) and standard output(stdout) as the input and output of the programs, not files.
 
-The inputs will be multiple numbers that be seperated by space, tab or newline character, and end  with a `x` alphabet, there will onlbe at most 10000 inputs.
+The inputs will be multiple numbers that be seperated by space, tab or newline character, and end  with a `x` alphabet, there will be at most 10000 inputs.
 
 Here is an example of the input:
 `-2  1  -3  4 -1  2  1  -5  4  x`
