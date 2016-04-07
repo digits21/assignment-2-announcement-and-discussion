@@ -28,3 +28,4 @@ Please open issue here: https://github.com/NCTU-CSE-Introduction-to-Algorithms/a
 
 ## Notes
 Please ["Watch"](https://github.com/NCTU-CSE-Introduction-to-Algorithms/assignment-2-announcement-and-discussion/subscription) this repository to get the latest disscussion or annocement about the programming assignment 2.
+ 
